@@ -1,10 +1,16 @@
-### Hi there 👋 I'm Dahee Kang
+### Hi there 👋 I'm Dahee Kang 
 
 <div>
 
+<h3> Tech Stack </h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=C++&logoColor=white"/>
 
 </div>
 
